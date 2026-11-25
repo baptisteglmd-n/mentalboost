@@ -32,7 +32,7 @@ Antoine | 25 ans, marathonien | Je ne savais pas vraiment à quoi m'attendre en 
 
 Leland | 31 ans, footballeur | Je tenais à te remercier pour ton accompagnement. J'avais du mal à gérer mes émotions, et elles prenaient trop souvent le dessus sur mes performances. Tu as su trouver les mots justes et me proposer une méthode adaptée, qui m'aide aujourd'hui à garder la maîtrise dans les moments importants.
 
-Valentine | 17 ans, gymnaste de niveau national | Un immense merci pour ce que tu m'as apporté. Ton accompagnement m'a énormément aidée. Tu m'as donné les clés pour mieux me comprendre, avancer et surtout devenir autonome en utilisant tout ce que tu m'as transmis. Merci pour ton écoute, ta bienveillance, ta confiance et surtout ton accompagnement. Tu es un préparateur mental en qui l'on peut vraiment avoir confiance, et je suis très reconnaissante d'avoir fait de la préparation mentale avec toi.
+Emma | 17 ans, gymnaste de niveau national | Un immense merci pour ce que tu m'as apporté. Ton accompagnement m'a énormément aidée. Tu m'as donné les clés pour mieux me comprendre, avancer et surtout devenir autonome en utilisant tout ce que tu m'as transmis. Merci pour ton écoute, ta bienveillance, ta confiance et surtout ton accompagnement. Tu es un préparateur mental en qui l'on peut vraiment avoir confiance, et je suis très reconnaissante d'avoir fait de la préparation mentale avec toi.
 
 `;
 
@@ -49,6 +49,6 @@ Florian | photos/florian.jpg
 Anthony | photos/anthony.jpg
 Antoine | photos/antoine.jpg
 Leland | photos/leland.jpg
-Valentine | photos/valentine.jpg
+Emma | photos/valentine.jpg
 
 `;
